@@ -18,9 +18,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 
 function _setPrototypeOf(o, p) { _setPrototypeOf = Object.setPrototypeOf || function _setPrototypeOf(o, p) { o.__proto__ = p; return o; }; return _setPrototypeOf(o, p); }
 
-var ProductTable =
-/*#__PURE__*/
-function (_React$Component) {
+var ProductTable = /*#__PURE__*/function (_React$Component) {
   _inherits(ProductTable, _React$Component);
 
   function ProductTable() {
@@ -47,9 +45,7 @@ function (_React$Component) {
   return ProductTable;
 }(React.Component);
 
-var ProductRow =
-/*#__PURE__*/
-function (_React$Component2) {
+var ProductRow = /*#__PURE__*/function (_React$Component2) {
   _inherits(ProductRow, _React$Component2);
 
   function ProductRow() {
@@ -72,9 +68,7 @@ function (_React$Component2) {
   return ProductRow;
 }(React.Component);
 
-var ProductAdd =
-/*#__PURE__*/
-function (_React$Component3) {
+var ProductAdd = /*#__PURE__*/function (_React$Component3) {
   _inherits(ProductAdd, _React$Component3);
 
   function ProductAdd() {
@@ -152,9 +146,7 @@ function (_React$Component3) {
   return ProductAdd;
 }(React.Component);
 
-var ProductList =
-/*#__PURE__*/
-function (_React$Component4) {
+var ProductList = /*#__PURE__*/function (_React$Component4) {
   _inherits(ProductList, _React$Component4);
 
   function ProductList() {
